@@ -1,7 +1,5 @@
 package com.ltp.gradesubmission;
 
-import java.util.UUID;
-
 public class Grade {
     private String name;
     private String subject;
